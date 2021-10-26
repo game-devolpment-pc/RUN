@@ -1,5 +1,17 @@
 # RUN
-The player starts on the ground floor of the tower. He has to jump on the small surfaces
-And climb the floor stories and score points. When the player falls through the bottom
-The screen or screen that is pursued catches it, the game is over, the combination causes the type
-Of a challenge so and should not at the rate of ascent fall and also flee from the enemy.
+
+## Description of the idea
+
+### starting position
+The player starts on the ground floor of the tower. He has to jump on the small surfaces.
+And climb the floor stories and score points.
+
+### Advanced stages 
+When the player falls through the bottom
+The screen or the enemy chasing him catches him.
+
+### The goal from the game (how to win!)
+to run from the enemy and done the level.
+
+### What platform is the game for?
+The game is mainly intended for computers but can be improved so that it will also support smartphones.
